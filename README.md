@@ -1,6 +1,6 @@
 # SmartBuy by EVOL
 
-SmartBuy by EVOL is an AI-powered smartphone shopping assistant built with Streamlit. It helps users explore smartphones, compare purchasing options, understand customer reviews, and discover alternatives that match their budget and preferences.
+SmartBuy by EVOL is an AI-powered smartphone shopping assistant built with Streamlit. It helps users explore smartphones, compare purchasing options, understand customer reviews and discover alternatives that match their budget and preferences.
 
 ## Features
 
